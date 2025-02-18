@@ -1,0 +1,5 @@
+public class Aula01 {
+  static void main(){
+    system.out.printl("HELLO WORLD");
+  }
+}
