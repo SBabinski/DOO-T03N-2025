@@ -1,59 +1,13 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Resultado {
-    private float preco_total;
-    private int quantidade;
-    private float valor_menor;
-
-    public Resultado(float preco_total, int quantidade,float valor_menor ){
-        this.preco_total = preco_total;
-        this.quantidade = quantidade;
-        this.valor_menor = valor_menor;
-    }
-
-    public float getPreco_total() {
-        return preco_total;
-    }
-
-    public int getQuantidade() {
-        return quantidade;
-    }
-
-    public float getValor_menor() {
-        return valor_menor;
-    }
-
-    public void setPreco_total(float preco_total) {
-        this.preco_total = preco_total;
-    }
-
-    public void setQuantidade(int quantidade) {
-        this.quantidade = quantidade;
-    }
-
-    public void setValor_menor(float valor_menor) {
-        this.valor_menor = valor_menor;
-    }
-
-    @Override
-    public String toString() {
-        return "Resultado{" +
-                "/Total: R$ " + preco_total+"/" +
-                ",/Quantidade:" + quantidade+"/" +
-                ",/Valor Descontado:" + valor_menor +"/"+
-                '}';
-    }
-
-}
-
-public class Atividade_03 {
+class Atividade_03 {
     public static Scanner scanner = new Scanner(System.in);
-    public static ArrayList<Resultado>Total_compras = new ArrayList<>();
+    public static ArrayList<Resultado_>Total_compras = new ArrayList<>();
     public static float totalCompra = 0;
 
     public static void main(String[] args) {
-menu();
+        menu();
     }
     public static void menu() {
         boolean turn = true;
@@ -78,9 +32,9 @@ menu();
                     turn = false;
                     sair();
                     break;
-                    case 4:
-                        registro();
-                        break;
+                case 4:
+                    registro();
+                    break;
                 default:
                     System.out.println("Opção Inválida. Tente novamente.");
                     break;
@@ -88,7 +42,7 @@ menu();
         }
     }
     public static void calcular() {
-float Desconto = 0;
+        float Desconto = 0;
         System.out.print("Digite o valor do item: ");
         float precoItem = scanner.nextFloat();
 
@@ -100,10 +54,10 @@ float Desconto = 0;
             totalCompra -= Desconto;
 
         }
-        Resultado Venda = new Resultado(totalCompra, quantidade, Desconto);
+        Resultado_ Venda = new Resultado_(totalCompra, quantidade, Desconto);
 
-            System.out.printf("O valor total da compra é: R$ %.2f\n", totalCompra);
-            Total_compras.add(Venda);
+        System.out.printf("O valor total da compra é: R$ %.2f\n", totalCompra);
+        Total_compras.add(Venda);
 
     }
 
@@ -134,8 +88,8 @@ float Desconto = 0;
         System.out.println("Fim do Programa. Obrigado!");
     }
     public static void registro(){
-for(Resultado venda : Total_compras){
-    System.out.println(venda);
-}
+        for(Resultado_ venda : Total_compras){
+            System.out.println(venda);
+        }
     }
 }
