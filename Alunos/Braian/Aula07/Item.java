@@ -1,10 +1,10 @@
 package Alunos.Braian.Aula07;
 
 public class Item {
-  private int id;
-  private String nome;
-  private String tipo;
-  private double valor;
+  private final int id;
+  private final String nome;
+  private final String tipo;
+  private final double valor;
 
   public Item(int id, String nome, String tipo, double valor) {
     this.id = id;
@@ -13,12 +13,19 @@ public class Item {
     this.valor = valor;
   }
 
-  public int getId() { return id; }
-  public String getNome() { return nome; }
-  public String getTipo() { return tipo; }
-  public double getValor() { return valor; }
-
+  public int getId(){
+    return id;
+  }
+  public String getNome() {
+    return nome;
+  }
+  public String getTipo(){
+    return tipo;
+  }
+  public double getValor(){
+    return valor;
+  }
   public void gerarDescricao() {
-    System.out.println("Item [ID: " + id + ", Nome: " + nome + ", Tipo: " + tipo + ", Valor: R$" + valor + "]");
+    System.out.println("Item [ID: " + this.id + ", Nome: " + this.nome + ", Tipo: " + this.tipo + ", Valor: R$" + this.valor + "]");
   }
 }

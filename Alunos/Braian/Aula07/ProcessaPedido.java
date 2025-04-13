@@ -1,4 +1,5 @@
 package Alunos.Braian.Aula07;
+import java.util.Date;
 
 public class ProcessaPedido {
   public Pedido processar(int id, String cliente, String vendedor, String loja, Item[] itens, Date dataCriacao, Date dataPagamento, Date dataVencimentoReserva) {
@@ -18,9 +19,9 @@ public class ProcessaPedido {
   }
 
   public static void testeConfirmacao() {
-    Item[] itens = { new Item(1, "Mouse", "Eletrônico", 150.0) };
+    Item[] itens = { new Item(1, "Orquidêa", "leve", 150.0) };
     Date hoje = new Date();
-    Date vencimentoFuturo = new Date(hoje.getTime() + 86400000); // +1 dia
+    Date vencimentoFuturo = new Date(hoje.getTime() + 86400000);
     ProcessaPedido processador = new ProcessaPedido();
     processador.processar(1, "Maria", "Carlos", "Loja A", itens, hoje, hoje, vencimentoFuturo);
   }

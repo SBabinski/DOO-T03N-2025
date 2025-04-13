@@ -29,7 +29,6 @@ public class Gerente extends Pessoa{
         return salarioBase * 0.35;
     }
 
-    // Getters e setters (se desejar usar):
     public double getSalarioBase() {
         return salarioBase;
     }

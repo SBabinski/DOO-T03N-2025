@@ -1,51 +1,53 @@
 package Alunos.Braian.Aula07;
 
-public class MyPlant {
-  public static Scanner scanner = new Scanner(System.in);
+public class Endereco {
+  private String estado;
+  private String cidade;
+  private String bairro;
+  private Integer numeroRua;
+  private String complemento;
 
-  public static void main(String[] args) {
-    menu();
+  public Endereco(String estado, String cidade, String bairro, Integer numeroRua, String complemento) {
+    this.estado = estado;
+    this.cidade = cidade;
+    this.bairro = bairro;
+    this.numeroRua = numeroRua;
+    this.complemento = complemento;
   }
 
-  public static void menu() {
-    int opcao;
-    while (opcao != 3){
-      exibirMenu();
-      opcao = scanner.nextInt();
-      scanner.nextLine();
-      switch (opcao) {
-        case 1 -> criarItem();
-        case 2 -> criarPedido();
-        case 3 -> System.out.println("Saindo...");
-        default -> System.out.println("Opção inválida!");
-      }
-    }
-
+  public String getEstado(){
+    return estado;
+  }
+  public String getCidade(){
+    return cidade;
+  }
+  public String getBairro(){
+    return bairro;
+  }
+  public Integer getNumeroRua(){
+    return numeroRua;
+  }
+  public String getComplemento(){
+    return complemento;
   }
 
-  public static void exibirMenu() {
-    System.out.println("1. Criar Itens");
-    System.out.println("2. Criar Pedido com dados fakes");
-    System.out.println("3. Sair");
-    System.out.print("Escolha uma opção: ");
+  public void setEstado(String estado){
+    this.estado = estado;
+  }
+  public void setCidade(String cidade){
+    this.cidade = cidade;
+  }
+  public void setBairro(String bairro){
+    this.bairro = bairro;
+  }
+  public void setNumeroRua(Integer numeroRua){
+    this.numeroRua = numeroRua;
+  }
+  public void setComplemento(String complemento){
+    this.complemento = complemento;
   }
 
-  public static void criarItem() {
-    Item item1 = new Item(1, "Caneca", "Utilidade", 25.0);
-    Item item2 = new Item(2, "Monitor", "Eletrônico", 800.0);
-
-    item1.gerarDescricao();
-    item2.gerarDescricao();
-  }
-
-  public static void criarPedido() {
-    Item item1 = new Item(1, "Caneca", "Utilidade", 25.0);
-    Item item2 = new Item(2, "Monitor", "Eletrônico", 800.0);
-    Item[] itens = { item1, item2 };
-
-    Pedido pedido = new Pedido(1, new Date(), new Date(), new Date(), "Carlos", "João", "Loja 1", itens);
-
-    pedido.gerarDescricaoVenda();
-    pedido.calcularValorTotal();
+  public void apresentarLogradouro() {
+    System.out.println("Endereço: Rua " + numeroRua + ", Bairro: " + bairro + ", Cidade: " + cidade + " - " + estado + ". " + complemento);
   }
 }
