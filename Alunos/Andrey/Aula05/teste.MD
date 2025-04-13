@@ -14,18 +14,16 @@ as variáveis, podemos criar loops, condicionais,  entre outras funções que po
 
 **Exemplo** 
 
-int somar(int a, int b) {
-
-   return a + b;
-
-}
-int multiplicar(int numero, int multiplicador) {
-    int resultado = 0;
-    for (int i = 0; i < multiplicador; i++) {
-        resultado += numero;
-    }
-    return resultado;
-}
+>int somar(int a, int b) {
+>   return a + b;
+>}
+>int multiplicar(int numero, int multiplicador) {
+>    int resultado = 0;
+>    for (int i = 0; i < multiplicador; i++) {
+>        resultado += numero;
+>    }
+>    return resultado;
+>}
 Acima temos um exemplo de duas funções em java, onde na primeira função retorna o resultado de uma soma, e na segunda o resultado de uma multiplicação. Algo bem visivel no exemplo é o uso de variáveis, como maior exemplo temos o resultado, onde é usado em ambas as funções e mesmo assim possui resultados diversos.
 
 ## Paradigma Declarativo 
