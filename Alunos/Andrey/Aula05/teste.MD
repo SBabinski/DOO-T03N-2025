@@ -15,22 +15,22 @@ as variáveis, podemos criar loops, condicionais,  entre outras funções que po
 **Exemplo** 
 
 >int somar(int a, int b) {
-
+>
 >   return a + b;
-
+>
 >}
 >int multiplicar(int numero, int multiplicador) {
-
+>
 >    int resultado = 0;
-
+>
 >    for (int i = 0; i < multiplicador; i++) {
-
+>
 >        resultado += numero;
-
+>
 >    }
-
+>
 >    return resultado;
-
+>
 >}
 
 Acima temos um exemplo de duas funções em java, onde na primeira função retorna o resultado de uma soma, e na segunda o resultado de uma multiplicação. Algo bem visivel no exemplo é o uso de variáveis, como maior exemplo temos o resultado, onde é usado em ambas as funções e mesmo assim possui resultados diversos.
@@ -38,19 +38,29 @@ Acima temos um exemplo de duas funções em java, onde na primeira função reto
 ## Paradigma Declarativo 
 O paradigma declarativo é um paradigma de programação que foca em descrever o que deve ser alcançado, em vez de como alcançá-lo. Em vez de fornecer uma sequência de instruções detalhadas, o programador declara as propriedades e relações que o resultado final deve ter. 
 
-Caso base: A soma de uma lista vazia é 0. 
-soma_números_ímpares([], 0). 
- 
-Caso recursivo: se a cabeça da lista for ímpar, adicione-a à soma da cauda. 
-soma_números_ímpares([H|T], Soma) :- 
-   H rem 2 =:= 1, % Verifique se H é ímpar 
-   sum_odd_numbers(T, TailSum), % Chamada recursiva na cauda 
-   A soma é H + TailSum. % Soma H com a soma da cauda. 
- 
-Caso recursivo: se o cabeçalho da lista for par, pule-o. 
-soma_números_ímpares([H|T], Soma) :- 
-   H rem 2 =:= 0, % Verifique se H é par 
-   sum_odd_numbers(T, Sum). % Continuar com a cauda. 
+**Exemplo** 
+
+>   Caso base: A soma de uma lista vazia é 0. 
+>
+>   soma_números_ímpares([], 0). 
+> 
+>   Caso recursivo: se a cabeça da lista for ímpar, adicione-a à soma da cauda. 
+>
+>   soma_números_ímpares([H|T], Soma) :- 
+>
+>   H rem 2 =:= 1, % Verifique se H é ímpar 
+>
+>   sum_odd_numbers(T, TailSum), % Chamada recursiva na cauda 
+>
+>   A soma é H + TailSum. % Soma H com a soma da cauda. 
+> 
+>   Caso recursivo: se o cabeçalho da lista for par, pule-o. 
+>
+>   soma_números_ímpares([H|T], Soma) :- 
+>
+>   H rem 2 =:= 0, % Verifique se H é par  
+>
+>   sum_odd_numbers(T, Sum). % Continuar com a cauda. 
 
 Acima temos um código em Prolog, esse código é de soma de números ímpares de uma lista de números esse estilo segui o paradigma declarativo, onde nos é mostrado um código bem distinto do Java.
 
