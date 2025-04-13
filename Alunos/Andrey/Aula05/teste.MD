@@ -5,7 +5,7 @@ Os paradigmas de programação ajudam a estabelecer padrões para escrever códi
 ## Paradigma Imperativo
 O paradigma imperativo é uma forma de programar que se concentra em dar instruções claras sobre como realizar uma tarefa. Para você entender melhor, é como se fosse uma receita de cozinha, onde você segue passos específicos para preparar aquele prato de doce ou salgado que você gosta. 
 Neste estilo de programação, podemos mudar o valor das coisas conforme precisarmos, sendo esses valores mutáveis, as variáveis, podemos criar loops, condicionais,  entre outras funções que podem ser atribuídas.
-
+>> **Exemplo**
 int somar(int a, int b) {
     return a + b;
 }
@@ -22,16 +22,16 @@ Acima temos um exemplo de duas funções em java, onde na primeira função reto
 ## Paradigma Declarativo 
 O paradigma declarativo é um paradigma de programação que foca em descrever o que deve ser alcançado, em vez de como alcançá-lo. Em vez de fornecer uma sequência de instruções detalhadas, o programador declara as propriedades e relações que o resultado final deve ter. 
 
-% Caso base: A soma de uma lista vazia é 0. 
+Caso base: A soma de uma lista vazia é 0. 
 soma_números_ímpares([], 0). 
  
-% Caso recursivo: se a cabeça da lista for ímpar, adicione-a à soma da cauda. 
+Caso recursivo: se a cabeça da lista for ímpar, adicione-a à soma da cauda. 
 soma_números_ímpares([H|T], Soma) :- 
    H rem 2 =:= 1, % Verifique se H é ímpar 
    sum_odd_numbers(T, TailSum), % Chamada recursiva na cauda 
    A soma é H + TailSum. % Soma H com a soma da cauda. 
  
-% Caso recursivo: se o cabeçalho da lista for par, pule-o. 
+Caso recursivo: se o cabeçalho da lista for par, pule-o. 
 soma_números_ímpares([H|T], Soma) :- 
    H rem 2 =:= 0, % Verifique se H é par 
    sum_odd_numbers(T, Sum). % Continuar com a cauda. 
