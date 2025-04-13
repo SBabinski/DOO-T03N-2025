@@ -7,7 +7,7 @@ public class FloriculturaAt {
         Scanner Scan = new Scanner(System.in);
         double totalSoma = 0;
 
-        System.out.println("\n BEM-VINDOS \r\n" + "Floricultura Gabrielinha's \n");
+        System.out.println("\n BEM-VINDOS \r\n " + " Floricultura Gabrielinha's \n");
 
         int opcao = 0;
 

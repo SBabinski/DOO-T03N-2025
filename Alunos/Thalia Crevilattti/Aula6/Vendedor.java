@@ -43,7 +43,6 @@ public class Vendedor {
         return media;
     }
 
-    // Método para calcular o bônus
     public double calcularBonus() {
         double bonus = salarioBase * 0.2;
         System.out.println("Bônus: R$ " + bonus);

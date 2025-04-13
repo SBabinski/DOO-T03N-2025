@@ -1,5 +1,3 @@
-
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -10,6 +8,7 @@ public class FloricAdd {
 
     public void menu() {
         int opcao = 0;
+        
         while (opcao != 3) {
             System.out.println("\nConfigurações de Histórico:");
             System.out.println("[1] - Adicionar Flor");
@@ -17,14 +16,14 @@ public class FloricAdd {
             System.out.println("[3] - Voltar ao Menu Principal");
 
             opcao = scanner.nextInt();
-            scanner.nextLine();  // Limpar o buffer
+            scanner.nextLine(); 
 
             switch (opcao) {
                 case 1:
                     System.out.println("Digite o nome da flor: ");
                     String flor = scanner.nextLine();
                     flores.add(flor);
-                    System.out.println("Flor adicionada com sucesso!");
+                    System.out.println("Flor adicionada!");
                     break;
 
                 case 2:

@@ -16,23 +16,23 @@
 ---
 
 
- # Java e Prolog: Diferença de códigos e suas repectivas funções
+## Java e Prolog: Diferença de códigos e suas respectivas funções
    Será realizado a implementação para verificar se um número é **par** ou **ímpar**, em dois diferentes paradigmas e com duas linguagens diferentes.
 
  ## Código em Java, utilizando do paradgima imperativo aplicado:
 
  Explicação: 
-    - Usamos o método **par(int num)**, para retornar **true** se **num % 2 == 0**, representando o **par** e **false** caso seja **ímpar**;
-    - Em **public static void main** colocamos a pré-condição de **int num = 10;** como função e será repassado pelo **if** para imprimir a resposta;
-    - Como esse código ja define suas funções explicitamente, ele esta dentro do **Paradigma Imperativo**.
+    Usamos o método **par(int num)**, para retornar **true** se **num % 2 == 0**, representando o **par** e **false** caso seja **ímpar**;
+    Em **public static void main** colocamos a pré-condição de **int num = 10;** como função e será repassado pelo **if** para imprimir a resposta;
+    Como esse código ja define suas funções explicitamente, ele esta dentro do **Paradigma Imperativo**.
 
  ## Código em Prolog, onde foi utilizado o paradigma declarativo:
 
  Explicação:
-   - Usamos **(?- par(X) e ?- ímpar(X))**, sem definir a ordem de execução.
-   - Quando consultamos **par(10).**, o Prolog verifica se a regra é verdadeira e responde **true** ou **false**.
-   - O programador não precisa definir como a verificação será feita, apenas estabelece as relações lógicas.
-   - Esse código pertence ao **Paradigma Declarativo**, pois descreve **o problema** e não **o processo de resolução**.
+   Usamos **(?- par(X) e ?- ímpar(X))**, sem definir a ordem de execução.
+   Quando consultamos **par(10).**, o Prolog verifica se a regra é verdadeira e responde **true** ou **false**.
+   O programador não precisa definir como a verificação será feita, apenas estabelece as relações lógicas.
+   Esse código pertence ao **Paradigma Declarativo**, pois descreve **o problema** e não **o processo de resolução**.
 
 
 ---
