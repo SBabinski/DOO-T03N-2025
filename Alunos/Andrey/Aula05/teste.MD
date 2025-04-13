@@ -5,8 +5,9 @@ Os paradigmas de programação ajudam a estabelecer padrões para escrever códi
 ## Paradigma Imperativo
 O paradigma imperativo é uma forma de programar que se concentra em dar instruções claras sobre como realizar uma tarefa. Para você entender melhor, é como se fosse uma receita de cozinha, onde você segue passos específicos para preparar aquele prato de doce ou salgado que você gosta. 
 Neste estilo de programação, podemos mudar o valor das coisas conforme precisarmos, sendo esses valores mutáveis, as variáveis, podemos criar loops, condicionais,  entre outras funções que podem ser atribuídas.
->> **Exemplo** 
-> int somar(int a, int b) {
+**Exemplo** 
+
+ int somar(int a, int b) {
     return a + b;
 }
 
