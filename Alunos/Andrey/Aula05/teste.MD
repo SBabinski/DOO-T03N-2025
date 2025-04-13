@@ -1,16 +1,21 @@
 # O Que é Paradigma
-Os paradigmas na programação são formas de resolver problemas, guiar e dizer o que não se deve fazer na programação. Cada linguagem de programação deve seguir um conjunto de paradigma, para dessa forma, seguir um padrão.
-Os paradigmas de programação ajudam a estabelecer padrões para escrever código. Quando um especialista muda para uma linguagem de programação que segue um paradigma com o qual está familiarizado, é mais fácil para ele superar as diferenças entre as linguagens.
+Os paradigmas na programação são formas de resolver problemas, guiar e dizer o que não se deve fazer na programação. 
+Cada linguagem de programação deve seguir um conjunto de paradigma, para dessa forma, seguir um padrão.
+Os paradigmas de programação ajudam a estabelecer padrões para escrever código. 
+Quando um especialista muda para uma linguagem de programação que segue um paradigma com o qual está familiarizado, 
+é mais fácil para ele superar as diferenças entre as linguagens.
 
 ## Paradigma Imperativo
-O paradigma imperativo é uma forma de programar que se concentra em dar instruções claras sobre como realizar uma tarefa. Para você entender melhor, é como se fosse uma receita de cozinha, onde você segue passos específicos para preparar aquele prato de doce ou salgado que você gosta. 
-Neste estilo de programação, podemos mudar o valor das coisas conforme precisarmos, sendo esses valores mutáveis, as variáveis, podemos criar loops, condicionais,  entre outras funções que podem ser atribuídas.
+O paradigma imperativo é uma forma de programar que se concentra em dar instruções claras sobre como realizar uma tarefa. 
+Para você entender melhor, é como se fosse uma receita de cozinha, onde você segue passos específicos para preparar aquele 
+prato de doce ou salgado que você gosta. 
+Neste estilo de programação, podemos mudar o valor das coisas conforme precisarmos, sendo esses valores mutáveis, 
+as variáveis, podemos criar loops, condicionais,  entre outras funções que podem ser atribuídas.
+
 **Exemplo** 
-
- int somar(int a, int b) {
-    return a + b;
+int somar(int a, int b) {
+   return a + b;
 }
-
 int multiplicar(int numero, int multiplicador) {
     int resultado = 0;
     for (int i = 0; i < multiplicador; i++) {
