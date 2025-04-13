@@ -13,8 +13,11 @@ Neste estilo de programação, podemos mudar o valor das coisas conforme precisa
 as variáveis, podemos criar loops, condicionais,  entre outras funções que podem ser atribuídas.
 
 **Exemplo** 
+
 int somar(int a, int b) {
+
    return a + b;
+
 }
 int multiplicar(int numero, int multiplicador) {
     int resultado = 0;
