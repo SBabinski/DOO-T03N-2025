@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
+    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -28,7 +29,7 @@ public class Main {
         String nomeVendedor = scanner.nextLine();
         System.out.print("Digite a idade do vendedor: ");
         int idadeVendedor = scanner.nextInt();
-        scanner.nextLine();  // Limpar o buffer do scanner
+        scanner.nextLine(); 
         System.out.print("Digite o nome da loja onde o vendedor trabalha: ");
         String lojaVendedor = scanner.nextLine();
         System.out.print("Digite a cidade onde o vendedor trabalha: ");
@@ -39,7 +40,7 @@ public class Main {
         String ruaVendedor = scanner.nextLine();
         System.out.print("Digite o salário base do vendedor: ");
         double salarioBaseVendedor = scanner.nextDouble();
-        scanner.nextLine();  // Limpar o buffer do scanner
+        scanner.nextLine();  
 
         // Criando o vendedor
         Vendedor vendedor1 = new Vendedor(nomeVendedor, idadeVendedor, lojaVendedor, cidadeVendedor, bairroVendedor, ruaVendedor, salarioBaseVendedor);
@@ -50,7 +51,7 @@ public class Main {
             double salarioRecebido = scanner.nextDouble();
             vendedor1.adicionarSalario(salarioRecebido);
         }
-        scanner.nextLine(); // Limpar o buffer do scanner
+        scanner.nextLine(); 
 
         // Perguntando dados do cliente
         System.out.println("\n********** INFORMAÇÕES DO CLIENTE **********");
@@ -58,7 +59,7 @@ public class Main {
         String nomeCliente = scanner.nextLine();
         System.out.print("Digite a idade do cliente: ");
         int idadeCliente = scanner.nextInt();
-        scanner.nextLine();  // Limpar o buffer do scanner
+        scanner.nextLine(); 
         System.out.print("Digite a cidade do cliente: ");
         String cidadeCliente = scanner.nextLine();
         System.out.print("Digite o bairro do cliente: ");
@@ -76,11 +77,11 @@ public class Main {
         // Apresentando a loja
         loja.apresentarse();
 
-        // Mostrando a quantidade de clientes e vendedores
+      
         loja.contarClientes();
         loja.contarVendedores();
 
-        // Apresentando o vendedor e seus cálculos
+       
         vendedor1.apresentarse();
         System.out.printf("  Média de salários: R$ %.2f\n", vendedor1.calcularMedia());
         System.out.printf("  Bônus: R$ %.2f\n", vendedor1.calcularBonus());
@@ -88,7 +89,7 @@ public class Main {
         // Apresentando o cliente
         cliente1.apresentarse();
 
-        // Fechando o scanner
+        
         scanner.close();
     }
 }
