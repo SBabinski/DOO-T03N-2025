@@ -1,0 +1,11 @@
+{
+  "address": "palmas",
+  "currentTemp": 21.0,
+  "maxTemp": 33.4,
+  "minTemp": 21.3,
+  "humidity": 77.9,
+  "conditions": "Clear",
+  "precipitation": 0.0,
+  "windSpeed": 5.4,
+  "windDir": 110.0
+}

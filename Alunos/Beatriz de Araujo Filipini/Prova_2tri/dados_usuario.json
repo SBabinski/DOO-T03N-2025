@@ -1,0 +1,91 @@
+{
+  "apelido": "Beatriz",
+  "favoritas": [
+    {
+      "id": 73,
+      "name": "The Walking Dead",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Action",
+        "Horror"
+      ],
+      "rating": {
+        "average": 7.9
+      },
+      "status": "Ended",
+      "premiered": "2010-10-31",
+      "ended": "2022-11-20"
+    },
+    {
+      "id": 2993,
+      "name": "Stranger Things",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Science-Fiction"
+      ],
+      "rating": {
+        "average": 8.5
+      },
+      "status": "Running",
+      "premiered": "2016-07-15"
+    },
+    {
+      "id": 42757,
+      "name": "Extraordinary You",
+      "language": "Korean",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "average": 8.0
+      },
+      "status": "Ended",
+      "premiered": "2019-10-02",
+      "ended": "2019-11-21",
+      "network": {
+        "name": "MBC"
+      }
+    }
+  ],
+  "assistidas": [
+    {
+      "id": 2993,
+      "name": "Stranger Things",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Science-Fiction"
+      ],
+      "rating": {
+        "average": 8.5
+      },
+      "status": "Running",
+      "premiered": "2016-07-15"
+    }
+  ],
+  "desejaAssistir": [
+    {
+      "id": 42757,
+      "name": "Extraordinary You",
+      "language": "Korean",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": {
+        "average": 8.0
+      },
+      "status": "Ended",
+      "premiered": "2019-10-02",
+      "ended": "2019-11-21",
+      "network": {
+        "name": "MBC"
+      }
+    }
+  ]
+}
