@@ -1,0 +1,11 @@
+{
+"nome": "Joao",
+"favoritos": [
+{"nome":"BreakingBad","idioma":"Inglês","generos":"Drama;Crime","status":"Encerrada","estreia":"2008-01-20","fim":"2013-09-29","emissora":"AMC"}
+],
+"assistidas": [
+{"nome":"TheWitcher","idioma":"Inglês","generos":"Ação;Fantasia","status":"Emandamento","estreia":"2019-12-20","fim":"Aindaemexibição","emissora":"Netflix"}
+],
+"paraAssistir": [
+]
+}

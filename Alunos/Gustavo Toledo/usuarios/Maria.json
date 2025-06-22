@@ -1,0 +1,11 @@
+{
+"nome": "Maria",
+"favoritos": [
+{"nome":"Stranger Things","idioma":"Inglês","generos":"Ficção;Terror","status":"Em andamento","estreia":"2016-07-15","fim":"Ainda em exibição","emissora":"Netflix"}
+],
+"assistidas": [
+],
+"paraAssistir": [
+{"nome":"Friends","idioma":"Inglês","generos":"Comédia;Romance","status":"Encerrada","estreia":"1994-09-22","fim":"2004-05-06","emissora":"NBC"}
+]
+}
