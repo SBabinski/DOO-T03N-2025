@@ -1,0 +1,11 @@
+{
+"nome": "Lucas",
+"favoritos": [
+{"nome":"Sherlock","idioma":"Inglês","generos":"Crime;Drama;Mistério","status":"Encerrada","estreia":"2010-07-25","fim":"2017-01-15","emissora":"BBCOne"}
+],
+"assistidas": [
+{"nome":"Dark","idioma":"Alemão","generos":"Ficção;Suspense;Drama","status":"Encerrada","estreia":"2017-12-01","fim":"2020-06-27","emissora":"Netflix"}
+],
+"paraAssistir": [
+]
+}
