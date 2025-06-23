@@ -9,7 +9,7 @@ import weatherapp.util.JsonParserUtil;
 import java.io.IOException;
 
 public class WeatherService {
-    private static final String API_KEY = "XLJNQ64Y933YRUYZVKWW298W8";
+    private static final String API_KEY = "SUA_KEY";
     private static final String BASE_URL = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/";
 
     public WeatherData getWeather(String city) throws IOException {
