@@ -1,0 +1,97 @@
+{
+    "vistos": [
+        {
+            "estado": "Ended",
+            "lingua": "English",
+            "dataFim": "2013-09-22",
+            "genero": [
+                "Drama",
+                "Crime",
+                "Mystery"
+            ],
+            "nome": "Dexter",
+            "id": 11,
+            "dataInicio": "2006-10-01",
+            "nota": 8.4,
+            "emisor": "Paramount+ with Showtime"
+        },
+        {
+            "estado": "Ended",
+            "lingua": "English",
+            "dataFim": "2020-09-20",
+            "genero": [
+                "Drama",
+                "Comedy",
+                "Romance"
+            ],
+            "nome": "Us",
+            "id": 13,
+            "dataInicio": "2020-09-20",
+            "nota": 7.4,
+            "emisor": "BBC iPlayer"
+        }
+    ],
+    "usuario": "teste",
+    "favoritos": [
+        {
+            "estado": "Ended",
+            "lingua": "English",
+            "dataFim": "2017-04-16",
+            "genero": [
+                "Drama",
+                "Romance"
+            ],
+            "nome": "Girls",
+            "id": 2,
+            "dataInicio": "2012-04-15",
+            "nota": 6.4,
+            "emisor": "HBO"
+        },
+        {
+            "estado": "Ended",
+            "lingua": "German",
+            "dataFim": "2019-12-12",
+            "genero": [
+                "Drama",
+                "Crime"
+            ],
+            "nome": "4 Blocks",
+            "id": 4,
+            "dataInicio": "2017-05-08",
+            "nota": 8,
+            "emisor": "Warner TV Serie"
+        }
+    ],
+    "assistir": [
+        {
+            "estado": "Ended",
+            "lingua": "English",
+            "dataFim": "2017-05-30",
+            "genero": [
+                "Drama",
+                "Crime",
+                "Thriller"
+            ],
+            "nome": "Prison Break",
+            "id": 6,
+            "dataInicio": "2005-08-29",
+            "nota": 8.2,
+            "emisor": "FOX"
+        },
+        {
+            "estado": "Ended",
+            "lingua": "English",
+            "dataFim": "2019-10-11",
+            "genero": [
+                "Drama",
+                "Crime",
+                "Thriller"
+            ],
+            "nome": "Breaking Bad",
+            "id": 9,
+            "dataInicio": "2008-01-20",
+            "nota": 9.2,
+            "emisor": "AMC"
+        }
+    ]
+}
