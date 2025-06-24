@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HelloWord",
+            "request": "launch",
+            "mainClass": "Alunos.Gustavo_Baú.Aula01.HelloWord",
+            "projectName": "DOO-T03N-2025_4466be93"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "Alunos.Gustavo_Baú.Aula02.Calculadora",
+            "projectName": "DOO-T03N-2025_4466be93"
+        },
+        {
+            "type": "java",
+            "name": "Aula03",
+            "request": "launch",
+            "mainClass": "Alunos.Gustavo_Baú.Aula03.Aula03",
+            "projectName": "DOO-T03N-2025_4466be93"
+        },
+        {
+            "type": "java",
+            "name": "Aula04",
+            "request": "launch",
+            "mainClass": "Alunos.Gustavo_Baú.Aula04.Aula04",
+            "projectName": "DOO-T03N-2025_4466be93"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Alunos.Gustavo_Baú.Aula06.Principal",
+            "projectName": "DOO-T03N-2025_4466be93"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Alunos.Gustavo_Baú.Aula07.Main",
+            "projectName": "DOO-T03N-2025_4466be93"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Alunos.Gustavo_Baú.Prova_1Tri.Main",
+            "projectName": "DOO-T03N-2025_4466be93"
+        },
+        {
+            "type": "java",
+            "name": "RastreadorSeriesApp",
+            "request": "launch",
+            "mainClass": "Alunos.Gustavo_Baú.Prova_2tri.src.main.java.RastreadorSeriesApp",
+            "projectName": "DOO-T03N-2025_4466be93"
+        },
+        {
+            "type": "java",
+            "name": "RastreadorSeriesApp(1)",
+            "request": "launch",
+            "mainClass": "RastreadorSeriesApp",
+            "projectName": "tv-series-tracker"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+  "82": {
+    "id": 82,
+    "name": "Game of Thrones",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Fantasy"
+    ],
+    "status": "Ended",
+    "premiered": "2011-04-17",
+    "ended": "2019-05-19",
+    "rating": {
+      "average": 8.9
+    },
+    "network": {
+      "name": "HBO"
+    }
+  },
+  "40739": {
+    "id": 40739,
+    "name": "Game of Clones",
+    "language": "English",
+    "genres": [
+      "Romance"
+    ],
+    "status": "Ended",
+    "premiered": "2019-02-21",
+    "ended": "2019-04-04",
+    "rating": {},
+    "network": {
+      "name": "MTV"
+    }
+  },
+  "21155": {
+    "id": 21155,
+    "name": "Game of Clones",
+    "language": "English",
+    "genres": [
+      "Romance"
+    ],
+    "status": "Ended",
+    "premiered": "2017-02-27",
+    "ended": "2017-03-24",
+    "rating": {},
+    "network": {
+      "name": "E4"
+    }
+  },
+  "42281": {
+    "id": 42281,
+    "name": "Game of Thrones: Inside the Episode",
+    "language": "English",
+    "genres": [],
+    "status": "Ended",
+    "premiered": "2019-04-14",
+    "ended": "2019-05-12",
+    "rating": {},
+    "network": {
+      "name": "HBO"
+    }
+  },
+  "10170": {
+    "id": 10170,
+    "name": "Game of Stones",
+    "language": "English",
+    "genres": [],
+    "status": "Ended",
+    "premiered": "2014-02-28",
+    "ended": "2014-04-04",
+    "rating": {},
+    "network": {
+      "name": "Discovery"
+    }
+  },
+  "22602": {
+    "id": 22602,
+    "name": "Hip Hop Tribe 2 : Game of Thrones",
+    "language": "Korean",
+    "genres": [
+      "Music"
+    ],
+    "status": "Ended",
+    "premiered": "2016-10-18",
+    "ended": "2017-01-24",
+    "rating": {},
+    "network": {
+      "name": "jTBC"
+    }
+  }
+}

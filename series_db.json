@@ -1,0 +1,573 @@
+{
+  "45121": {
+    "id": 45121,
+    "name": "Vikings: Valhalla",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Action",
+      "History"
+    ],
+    "status": "Ended",
+    "premiered": "2022-02-25",
+    "ended": "2024-07-11",
+    "rating": {
+      "average": 7.4
+    }
+  },
+  "51777": {
+    "id": 51777,
+    "name": "Flash Gordon",
+    "language": "English",
+    "genres": [
+      "Adventure",
+      "Science-Fiction"
+    ],
+    "status": "Ended",
+    "premiered": "1996-09-21",
+    "ended": "1997-03-15",
+    "rating": {},
+    "network": {
+      "name": "Syndication"
+    }
+  },
+  "14017": {
+    "id": 14017,
+    "name": "Flash Forward",
+    "language": "English",
+    "genres": [],
+    "status": "Ended",
+    "rating": {},
+    "network": {
+      "name": "Disney Channel"
+    }
+  },
+  "22980": {
+    "id": 22980,
+    "name": "Real Vikings",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "status": "Ended",
+    "premiered": "2016-11-30",
+    "ended": "2016-12-21",
+    "rating": {
+      "average": 7.8
+    },
+    "network": {
+      "name": "History"
+    }
+  },
+  "53703": {
+    "id": 53703,
+    "name": "Friends",
+    "language": "Korean",
+    "genres": [],
+    "status": "Ended",
+    "premiered": "2021-02-17",
+    "ended": "2021-05-12",
+    "rating": {},
+    "network": {
+      "name": "Channel A"
+    }
+  },
+  "48199": {
+    "id": 48199,
+    "name": "Vikingarnas sista resa",
+    "language": "Swedish",
+    "genres": [
+      "History"
+    ],
+    "status": "Ended",
+    "premiered": "2020-04-12",
+    "ended": "2020-04-12",
+    "rating": {}
+  },
+  "22602": {
+    "id": 22602,
+    "name": "Hip Hop Tribe 2 : Game of Thrones",
+    "language": "Korean",
+    "genres": [
+      "Music"
+    ],
+    "status": "Ended",
+    "premiered": "2016-10-18",
+    "ended": "2017-01-24",
+    "rating": {},
+    "network": {
+      "name": "jTBC"
+    }
+  },
+  "79755": {
+    "id": 79755,
+    "name": "Fast Friends",
+    "genres": [],
+    "status": "To Be Determined",
+    "premiered": "2024-12-19",
+    "rating": {}
+  },
+  "458": {
+    "id": 458,
+    "name": "FlashForward",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Science-Fiction"
+    ],
+    "status": "Ended",
+    "premiered": "2009-09-24",
+    "ended": "2010-05-27",
+    "rating": {
+      "average": 7.7
+    },
+    "network": {
+      "name": "ABC"
+    }
+  },
+  "13": {
+    "id": 13,
+    "name": "The Flash",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Action",
+      "Science-Fiction"
+    ],
+    "status": "Ended",
+    "premiered": "2014-10-07",
+    "ended": "2023-05-24",
+    "rating": {
+      "average": 7.5
+    },
+    "network": {
+      "name": "The CW"
+    }
+  },
+  "47182": {
+    "id": 47182,
+    "name": "Smiling Friends",
+    "language": "English",
+    "genres": [
+      "Comedy"
+    ],
+    "status": "Running",
+    "premiered": "2020-04-01",
+    "rating": {
+      "average": 7.6
+    },
+    "network": {
+      "name": "Adult Swim"
+    }
+  },
+  "528": {
+    "id": 528,
+    "name": "The Flash",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science-Fiction"
+    ],
+    "status": "Ended",
+    "premiered": "1990-09-20",
+    "ended": "1991-05-18",
+    "rating": {
+      "average": 7.6
+    },
+    "network": {
+      "name": "CBS"
+    }
+  },
+  "82": {
+    "id": 82,
+    "name": "Game of Thrones",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Fantasy"
+    ],
+    "status": "Ended",
+    "premiered": "2011-04-17",
+    "ended": "2019-05-19",
+    "rating": {
+      "average": 8.9
+    },
+    "network": {
+      "name": "HBO"
+    }
+  },
+  "33940": {
+    "id": 33940,
+    "name": "LEGO Friends",
+    "language": "English",
+    "genres": [
+      "Comedy",
+      "Children"
+    ],
+    "status": "Ended",
+    "premiered": "2012-05-05",
+    "ended": "2020-06-26",
+    "rating": {},
+    "network": {
+      "name": "Disney Channel"
+    }
+  },
+  "16214": {
+    "id": 16214,
+    "name": "Vikings: Athelstan\u0027s Journal",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Action",
+      "History"
+    ],
+    "status": "Ended",
+    "premiered": "2015-01-30",
+    "ended": "2015-03-20",
+    "rating": {
+      "average": 6.6
+    }
+  },
+  "29": {
+    "id": 29,
+    "name": "Vikings",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Action",
+      "History"
+    ],
+    "status": "Ended",
+    "premiered": "2013-03-03",
+    "ended": "2021-03-05",
+    "rating": {
+      "average": 8.6
+    },
+    "network": {
+      "name": "History"
+    }
+  },
+  "45922": {
+    "id": 45922,
+    "name": "Graceful Friends",
+    "language": "Korean",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "status": "Ended",
+    "premiered": "2020-07-10",
+    "ended": "2020-09-05",
+    "rating": {},
+    "network": {
+      "name": "jTBC"
+    }
+  },
+  "71971": {
+    "id": 71971,
+    "name": "Vikings: American Quest",
+    "language": "English",
+    "genres": [
+      "Adventure",
+      "History"
+    ],
+    "status": "Ended",
+    "premiered": "2023-09-12",
+    "ended": "2023-10-17",
+    "rating": {},
+    "network": {
+      "name": "SBS Viceland"
+    }
+  },
+  "40739": {
+    "id": 40739,
+    "name": "Game of Clones",
+    "language": "English",
+    "genres": [
+      "Romance"
+    ],
+    "status": "Ended",
+    "premiered": "2019-02-21",
+    "ended": "2019-04-04",
+    "rating": {},
+    "network": {
+      "name": "MTV"
+    }
+  },
+  "21155": {
+    "id": 21155,
+    "name": "Game of Clones",
+    "language": "English",
+    "genres": [
+      "Romance"
+    ],
+    "status": "Ended",
+    "premiered": "2017-02-27",
+    "ended": "2017-03-24",
+    "rating": {},
+    "network": {
+      "name": "E4"
+    }
+  },
+  "46948": {
+    "id": 46948,
+    "name": "Friends",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "status": "Ended",
+    "premiered": "1979-03-25",
+    "ended": "1979-04-22",
+    "rating": {},
+    "network": {
+      "name": "ABC"
+    }
+  },
+  "7079": {
+    "id": 7079,
+    "name": "The Flash",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science-Fiction"
+    ],
+    "status": "Ended",
+    "premiered": "1967-11-11",
+    "ended": "1967-11-25",
+    "rating": {},
+    "network": {
+      "name": "CBS"
+    }
+  },
+  "999": {
+    "id": 999,
+    "name": "Flash Gordon",
+    "language": "English",
+    "genres": [
+      "Science-Fiction"
+    ],
+    "status": "Ended",
+    "premiered": "2007-08-10",
+    "ended": "2008-02-08",
+    "rating": {
+      "average": 6.5
+    },
+    "network": {
+      "name": "Syfy"
+    }
+  },
+  "42281": {
+    "id": 42281,
+    "name": "Game of Thrones: Inside the Episode",
+    "language": "English",
+    "genres": [],
+    "status": "Ended",
+    "premiered": "2019-04-14",
+    "ended": "2019-05-12",
+    "rating": {},
+    "network": {
+      "name": "HBO"
+    }
+  },
+  "40938": {
+    "id": 40938,
+    "name": "America\u0027s Lost Vikings",
+    "language": "English",
+    "genres": [
+      "History"
+    ],
+    "status": "Ended",
+    "premiered": "2019-02-10",
+    "ended": "2019-03-24",
+    "rating": {
+      "average": 7.0
+    },
+    "network": {
+      "name": "Science"
+    }
+  },
+  "431": {
+    "id": 431,
+    "name": "Friends",
+    "language": "English",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "status": "Ended",
+    "premiered": "1994-09-22",
+    "ended": "2004-05-06",
+    "rating": {
+      "average": 8.5
+    },
+    "network": {
+      "name": "NBC"
+    }
+  },
+  "30774": {
+    "id": 30774,
+    "name": "Friends",
+    "language": "Japanese",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "status": "Ended",
+    "premiered": "2002-02-04",
+    "ended": "2002-02-05",
+    "rating": {},
+    "network": {
+      "name": "TBS"
+    }
+  },
+  "69111": {
+    "id": 69111,
+    "name": "The Vikings",
+    "language": "English",
+    "genres": [
+      "War",
+      "History"
+    ],
+    "status": "Running",
+    "premiered": "2023-06-21",
+    "rating": {},
+    "network": {
+      "name": "5"
+    }
+  },
+  "34934": {
+    "id": 34934,
+    "name": "Flash Gordon",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "status": "Ended",
+    "premiered": "1954-10-01",
+    "ended": "1955-07-15",
+    "rating": {},
+    "network": {
+      "name": "Syndication"
+    }
+  },
+  "20279": {
+    "id": 20279,
+    "name": "Super Friends",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science-Fiction"
+    ],
+    "status": "Ended",
+    "premiered": "1973-09-08",
+    "ended": "1973-12-22",
+    "rating": {
+      "average": 7.0
+    },
+    "network": {
+      "name": "ABC"
+    }
+  },
+  "1335": {
+    "id": 1335,
+    "name": "Vikings",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Fantasy"
+    ],
+    "status": "Ended",
+    "premiered": "2012-09-11",
+    "ended": "2012-09-25",
+    "rating": {
+      "average": 8.0
+    },
+    "network": {
+      "name": "BBC Two"
+    }
+  },
+  "46969": {
+    "id": 46969,
+    "name": "Cutie Honey Flash",
+    "language": "Japanese",
+    "genres": [
+      "Adventure",
+      "Anime",
+      "Fantasy",
+      "Romance"
+    ],
+    "status": "Ended",
+    "premiered": "1997-02-15",
+    "ended": "1998-01-31",
+    "rating": {},
+    "network": {
+      "name": "TV Asahi"
+    }
+  },
+  "10170": {
+    "id": 10170,
+    "name": "Game of Stones",
+    "language": "English",
+    "genres": [],
+    "status": "Ended",
+    "premiered": "2014-02-28",
+    "ended": "2014-04-04",
+    "rating": {},
+    "network": {
+      "name": "Discovery"
+    }
+  },
+  "20474": {
+    "id": 20474,
+    "name": "Angel\u0027s Friends",
+    "language": "Italian",
+    "genres": [
+      "Adventure",
+      "Children",
+      "Fantasy"
+    ],
+    "status": "Ended",
+    "premiered": "2009-10-12",
+    "ended": "2012-10-21",
+    "rating": {
+      "average": 7.0
+    },
+    "network": {
+      "name": "Italia 1"
+    }
+  },
+  "43642": {
+    "id": 43642,
+    "name": "X1 Flash",
+    "language": "Korean",
+    "genres": [],
+    "status": "Ended",
+    "premiered": "2019-08-22",
+    "ended": "2019-08-29",
+    "rating": {},
+    "network": {
+      "name": "Mnet"
+    }
+  },
+  "59326": {
+    "id": 59326,
+    "name": "Ice Vikings",
+    "language": "English",
+    "genres": [],
+    "status": "To Be Determined",
+    "premiered": "2021-10-12",
+    "rating": {}
+  }
+}
