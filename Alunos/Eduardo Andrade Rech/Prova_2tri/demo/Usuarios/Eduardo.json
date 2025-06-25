@@ -1,0 +1,284 @@
+{
+  "nome": "Eduardo",
+  "favoritas": [
+    {
+      "id": 49,
+      "nome": "Brooklyn Nine-Nine",
+      "idioma": "English",
+      "generos": [
+        "Comedy",
+        "Action",
+        "Crime"
+      ],
+      "nota": 8.1,
+      "estado": "Ended",
+      "data_estreia": "2013-09-17",
+      "data_termino": "2021-09-16",
+      "emissora": "NBC"
+    },
+    {
+      "id": 24,
+      "nome": "Hawaii Five-0",
+      "idioma": "English",
+      "generos": [
+        "Drama",
+        "Action",
+        "Crime"
+      ],
+      "nota": 7.7,
+      "estado": "Ended",
+      "data_estreia": "2010-09-20",
+      "data_termino": "2020-04-03",
+      "emissora": "CBS"
+    },
+    {
+      "id": 1859,
+      "nome": "Lucifer",
+      "idioma": "English",
+      "generos": [
+        "Drama",
+        "Crime",
+        "Supernatural"
+      ],
+      "nota": 8.3,
+      "estado": "Ended",
+      "data_estreia": "2016-01-25",
+      "data_termino": "2021-09-10"
+    },
+    {
+      "id": 216,
+      "nome": "Rick and Morty",
+      "idioma": "English",
+      "generos": [
+        "Comedy",
+        "Adventure",
+        "Science-Fiction"
+      ],
+      "nota": 8.8,
+      "estado": "Running",
+      "data_estreia": "2013-12-02",
+      "emissora": "Adult Swim"
+    },
+    {
+      "id": 13629,
+      "nome": "Shadow Hunters",
+      "idioma": "English",
+      "generos": [
+        "Adventure",
+        "Nature"
+      ],
+      "estado": "Ended",
+      "data_estreia": "2011-05-31",
+      "data_termino": "2011-05-31",
+      "emissora": "National Geographic"
+    },
+    {
+      "id": 19,
+      "nome": "Supernatural",
+      "idioma": "English",
+      "generos": [
+        "Drama",
+        "Action",
+        "Supernatural"
+      ],
+      "nota": 8.3,
+      "estado": "Ended",
+      "data_estreia": "2005-09-13",
+      "data_termino": "2020-11-19",
+      "emissora": "The CW"
+    },
+    {
+      "id": 13,
+      "nome": "The Flash",
+      "idioma": "English",
+      "generos": [
+        "Drama",
+        "Action",
+        "Science-Fiction"
+      ],
+      "nota": 7.5,
+      "estado": "Ended",
+      "data_estreia": "2014-10-07",
+      "data_termino": "2023-05-24",
+      "emissora": "The CW"
+    }
+  ],
+  "assistidas": [
+    {
+      "id": 19,
+      "nome": "Supernatural",
+      "idioma": "English",
+      "generos": [
+        "Drama",
+        "Action",
+        "Supernatural"
+      ],
+      "nota": 8.3,
+      "estado": "Ended",
+      "data_estreia": "2005-09-13",
+      "data_termino": "2020-11-19",
+      "emissora": "The CW"
+    },
+    {
+      "id": 13629,
+      "nome": "Shadow Hunters",
+      "idioma": "English",
+      "generos": [
+        "Adventure",
+        "Nature"
+      ],
+      "estado": "Ended",
+      "data_estreia": "2011-05-31",
+      "data_termino": "2011-05-31",
+      "emissora": "National Geographic"
+    },
+    {
+      "id": 172,
+      "nome": "Suits",
+      "idioma": "English",
+      "generos": [
+        "Drama",
+        "Legal"
+      ],
+      "nota": 8.1,
+      "estado": "Ended",
+      "data_estreia": "2011-06-23",
+      "data_termino": "2019-09-25",
+      "emissora": "USA Network"
+    },
+    {
+      "id": 4,
+      "nome": "Arrow",
+      "idioma": "English",
+      "generos": [
+        "Drama",
+        "Action",
+        "Science-Fiction"
+      ],
+      "nota": 7.4,
+      "estado": "Ended",
+      "data_estreia": "2012-10-10",
+      "data_termino": "2020-01-28",
+      "emissora": "The CW"
+    },
+    {
+      "id": 216,
+      "nome": "Rick and Morty",
+      "idioma": "English",
+      "generos": [
+        "Comedy",
+        "Adventure",
+        "Science-Fiction"
+      ],
+      "nota": 8.8,
+      "estado": "Running",
+      "data_estreia": "2013-12-02",
+      "emissora": "Adult Swim"
+    },
+    {
+      "id": 1859,
+      "nome": "Lucifer",
+      "idioma": "English",
+      "generos": [
+        "Drama",
+        "Crime",
+        "Supernatural"
+      ],
+      "nota": 8.3,
+      "estado": "Ended",
+      "data_estreia": "2016-01-25",
+      "data_termino": "2021-09-10"
+    },
+    {
+      "id": 2790,
+      "nome": "The Good Place",
+      "idioma": "English",
+      "generos": [
+        "Comedy",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "nota": 7.6,
+      "estado": "Ended",
+      "data_estreia": "2016-09-19",
+      "data_termino": "2020-01-30",
+      "emissora": "NBC"
+    }
+  ],
+  "desejo": [
+    {
+      "id": 4,
+      "nome": "Arrow",
+      "idioma": "English",
+      "generos": [
+        "Drama",
+        "Action",
+        "Science-Fiction"
+      ],
+      "nota": 7.4,
+      "estado": "Ended",
+      "data_estreia": "2012-10-10",
+      "data_termino": "2020-01-28",
+      "emissora": "The CW"
+    },
+    {
+      "id": 49,
+      "nome": "Brooklyn Nine-Nine",
+      "idioma": "English",
+      "generos": [
+        "Comedy",
+        "Action",
+        "Crime"
+      ],
+      "nota": 8.1,
+      "estado": "Ended",
+      "data_estreia": "2013-09-17",
+      "data_termino": "2021-09-16",
+      "emissora": "NBC"
+    },
+    {
+      "id": 1851,
+      "nome": "DC\u0027s Legends of Tomorrow",
+      "idioma": "English",
+      "generos": [
+        "Drama",
+        "Action",
+        "Science-Fiction"
+      ],
+      "nota": 7.0,
+      "estado": "Ended",
+      "data_estreia": "2016-01-21",
+      "data_termino": "2022-03-02",
+      "emissora": "The CW"
+    },
+    {
+      "id": 216,
+      "nome": "Rick and Morty",
+      "idioma": "English",
+      "generos": [
+        "Comedy",
+        "Adventure",
+        "Science-Fiction"
+      ],
+      "nota": 8.8,
+      "estado": "Running",
+      "data_estreia": "2013-12-02",
+      "emissora": "Adult Swim"
+    },
+    {
+      "id": 13,
+      "nome": "The Flash",
+      "idioma": "English",
+      "generos": [
+        "Drama",
+        "Action",
+        "Science-Fiction"
+      ],
+      "nota": 7.5,
+      "estado": "Ended",
+      "data_estreia": "2014-10-07",
+      "data_termino": "2023-05-24",
+      "emissora": "The CW"
+    }
+  ]
+}

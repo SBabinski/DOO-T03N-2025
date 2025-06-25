@@ -1,0 +1,22 @@
+{
+  "nome": "Eduardo Andrade Rech",
+  "favoritas": [],
+  "assistidas": [
+    {
+      "id": 19,
+      "nome": "Supernatural",
+      "idioma": "English",
+      "generos": [
+        "Drama",
+        "Action",
+        "Supernatural"
+      ],
+      "nota": 8.3,
+      "estado": "Ended",
+      "data_estreia": "2005-09-13",
+      "data_termino": "2020-11-19",
+      "emissora": "The CW"
+    }
+  ],
+  "desejo": []
+}
