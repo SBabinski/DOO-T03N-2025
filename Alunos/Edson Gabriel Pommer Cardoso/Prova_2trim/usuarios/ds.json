@@ -1,0 +1,27 @@
+{
+  "usuario": "ds",
+  "assistidos": [],
+  "favoritos": [
+    {
+      "nome": "Dexter",
+      "idioma": "English",
+      "generos": "\"Drama\",\"Crime\",\"Mystery\"",
+      "nota": 8.4,
+      "estado": "Ended",
+      "dataEstreia": "2006-10-01",
+      "dataFim": "2013-09-22",
+      "emissora": "Paramount+ with Showtime"
+    },
+    {
+      "nome": "Batman",
+      "idioma": "English",
+      "generos": "\"Comedy\",\"Action\",\"Adventure\"",
+      "nota": 7.8,
+      "estado": "Ended",
+      "dataEstreia": "1966-01-12",
+      "dataFim": "1968-03-14",
+      "emissora": "ABC"
+    }
+  ],
+  "desejo": []
+}
