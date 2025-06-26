@@ -1,0 +1,52 @@
+{
+  "nome": "ENZO",
+  "favoritos": [
+    {
+      "id": 11464,
+      "nome": "Batman Unlimited",
+      "idioma": "English",
+      "generos": [
+        "Action",
+        "Children",
+        "Science-Fiction"
+      ],
+      "nota": 6.3,
+      "status": "Concluída",
+      "dataEstreia": "2015-05-04",
+      "dataFim": "2016-08-16",
+      "emissora": "YouTube"
+    },
+    {
+      "id": 504,
+      "nome": "Batman Beyond",
+      "idioma": "English",
+      "generos": [
+        "Action",
+        "Adventure",
+        "Science-Fiction"
+      ],
+      "nota": 8.0,
+      "status": "Concluída",
+      "dataEstreia": "1999-01-10",
+      "dataFim": "2001-12-18",
+      "emissora": "The WB"
+    },
+    {
+      "id": 161,
+      "nome": "Dexter",
+      "idioma": "English",
+      "generos": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "nota": 8.4,
+      "status": "Concluída",
+      "dataEstreia": "2006-10-01",
+      "dataFim": "2013-09-22",
+      "emissora": "Paramount+ with Showtime"
+    }
+  ],
+  "assistidas": [],
+  "desejoAssistir": []
+}

@@ -1,3 +1,18 @@
 {
+<<<<<<< Updated upstream
     "java.debug.settings.onBuildFailureProceed": true
+=======
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "Alunos/Enzo Felipe Stopassole/Prova_2tri/sistematv/src/main/java/com/sistematv",
+        "Alunos/Enzo Felipe Stopassole/Aula09",
+        "Alunos/Enzo Felipe Stopassole/Aula07",
+        "Alunos/Enzo Felipe Stopassole/Aula06",
+        "Alunos/Enzo Felipe Stopassole/Aula04",
+        "Alunos/Enzo Felipe Stopassole/Aula03",
+        "Alunos/Enzo Felipe Stopassole/Aula02",
+        "Alunos/Enzo Felipe Stopassole/Aula01",
+        "Alunos/Enzo Felipe Stopassole/Aula12"
+    ]
+>>>>>>> Stashed changes
 }
