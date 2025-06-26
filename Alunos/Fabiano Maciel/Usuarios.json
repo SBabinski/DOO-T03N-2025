@@ -1,0 +1,283 @@
+[
+  {
+    "nome": "Fabiano",
+    "favoritos": [
+      {
+        "id": 19,
+        "nome": "Supernatural",
+        "idioma": "English",
+        "generos": [
+          "Drama",
+          "Action",
+          "Supernatural"
+        ],
+        "nota": 8.3,
+        "estado": "Ended",
+        "dataEstreia": "2005-09-13",
+        "dataFim": "2020-11-19",
+        "emissora": "The CW"
+      }
+    ],
+    "assistidas": [],
+    "desejaAssistir": []
+  },
+  {
+    "nome": "Rafael",
+    "favoritos": [
+      {
+        "id": 7073,
+        "nome": "Superman",
+        "idioma": "English",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Science-Fiction"
+        ],
+        "nota": 6.8,
+        "estado": "Ended",
+        "dataEstreia": "1988-09-17",
+        "dataFim": "1988-12-17",
+        "emissora": "CBS"
+      },
+      {
+        "id": 42168,
+        "nome": "Broke",
+        "idioma": "English",
+        "generos": [
+          "Comedy"
+        ],
+        "nota": 6.1,
+        "estado": "Ended",
+        "dataEstreia": "2020-04-02",
+        "dataFim": "2020-06-25",
+        "emissora": "CBS"
+      },
+      {
+        "id": 54198,
+        "nome": "The Bear",
+        "idioma": "English",
+        "generos": [
+          "Drama",
+          "Comedy",
+          "Food"
+        ],
+        "nota": 7.4,
+        "estado": "Running",
+        "dataEstreia": "2022-06-23",
+        "dataFim": "",
+        "emissora": "Hulu"
+      },
+      {
+        "id": 51362,
+        "nome": "Pinjara Khubsurti Ka",
+        "idioma": "Hindi",
+        "generos": [
+          "Drama",
+          "Romance"
+        ],
+        "nota": 0.0,
+        "estado": "Ended",
+        "dataEstreia": "2020-08-24",
+        "dataFim": "2021-05-13",
+        "emissora": "Colors"
+      }
+    ],
+    "assistidas": [],
+    "desejaAssistir": []
+  },
+  {
+    "nome": "Kalvin",
+    "favoritos": [],
+    "assistidas": [],
+    "desejaAssistir": []
+  },
+  {
+    "nome": "Edson",
+    "favoritos": [
+      {
+        "id": 975,
+        "nome": "Batman",
+        "idioma": "English",
+        "generos": [
+          "Comedy",
+          "Action",
+          "Adventure"
+        ],
+        "nota": 7.8,
+        "estado": "Ended",
+        "dataEstreia": "1966-01-12",
+        "dataFim": "1968-03-14",
+        "emissora": "ABC"
+      },
+      {
+        "id": 73091,
+        "nome": "Mutant League",
+        "idioma": "English",
+        "generos": [
+          "Action",
+          "Sports"
+        ],
+        "nota": 7.4,
+        "estado": "Ended",
+        "dataEstreia": "1994-07-02",
+        "dataFim": "1994-09-24",
+        "emissora": "FOX"
+      },
+      {
+        "id": 21010,
+        "nome": "Supermax",
+        "idioma": "Portuguese",
+        "generos": [
+          "Drama",
+          "Horror",
+          "Mystery"
+        ],
+        "nota": 0.0,
+        "estado": "Ended",
+        "dataEstreia": "2016-09-20",
+        "dataFim": "2016-12-13",
+        "emissora": "TV Globo"
+      }
+    ],
+    "assistidas": [],
+    "desejaAssistir": []
+  },
+  {
+    "nome": " asd",
+    "favoritos": [
+      {
+        "id": 161,
+        "nome": "Dexter",
+        "idioma": "English",
+        "generos": [
+          "Drama",
+          "Crime",
+          "Mystery"
+        ],
+        "nota": 8.4,
+        "estado": "Ended",
+        "dataEstreia": "2006-10-01",
+        "dataFim": "2013-09-22",
+        "emissora": "Paramount+ with Showtime"
+      },
+      {
+        "id": 975,
+        "nome": "Batman",
+        "idioma": "English",
+        "generos": [
+          "Comedy",
+          "Action",
+          "Adventure"
+        ],
+        "nota": 7.8,
+        "estado": "Ended",
+        "dataEstreia": "1966-01-12",
+        "dataFim": "1968-03-14",
+        "emissora": "ABC"
+      }
+    ],
+    "assistidas": [],
+    "desejaAssistir": []
+  },
+  {
+    "nome": "asd",
+    "favoritos": [
+      {
+        "id": 161,
+        "nome": "Dexter",
+        "idioma": "English",
+        "generos": [
+          "Drama",
+          "Crime",
+          "Mystery"
+        ],
+        "nota": 8.4,
+        "estado": "Ended",
+        "dataEstreia": "2006-10-01",
+        "dataFim": "2013-09-22",
+        "emissora": "Paramount+ with Showtime"
+      },
+      {
+        "id": 975,
+        "nome": "Batman",
+        "idioma": "English",
+        "generos": [
+          "Comedy",
+          "Action",
+          "Adventure"
+        ],
+        "nota": 7.8,
+        "estado": "Ended",
+        "dataEstreia": "1966-01-12",
+        "dataFim": "1968-03-14",
+        "emissora": "ABC"
+      }
+    ],
+    "assistidas": [],
+    "desejaAssistir": []
+  },
+  {
+    "nome": "Fabiano Maciel",
+    "favoritos": [
+      {
+        "id": 7073,
+        "nome": "Superman",
+        "idioma": "English",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Science-Fiction"
+        ],
+        "nota": 6.8,
+        "estado": "Ended",
+        "dataEstreia": "1988-09-17",
+        "dataFim": "1988-12-17",
+        "emissora": "CBS"
+      },
+      {
+        "id": 22833,
+        "nome": "Formula 1",
+        "idioma": "English",
+        "generos": [
+          "Sports"
+        ],
+        "nota": 7.0,
+        "estado": "Running",
+        "dataEstreia": "2016-11-12",
+        "dataFim": "",
+        "emissora": "Channel 4"
+      },
+      {
+        "id": 85537,
+        "nome": "S Line",
+        "idioma": "Korean",
+        "generos": [
+          "Drama"
+        ],
+        "nota": 0.0,
+        "estado": "In Development",
+        "dataEstreia": "2025-07-11",
+        "dataFim": "",
+        "emissora": "wavve"
+      }
+    ],
+    "assistidas": [
+      {
+        "id": 7073,
+        "nome": "Superman",
+        "idioma": "English",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Science-Fiction"
+        ],
+        "nota": 6.8,
+        "estado": "Ended",
+        "dataEstreia": "1988-09-17",
+        "dataFim": "1988-12-17",
+        "emissora": "CBS"
+      }
+    ],
+    "desejaAssistir": []
+  }
+]
